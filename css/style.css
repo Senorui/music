@@ -24,7 +24,7 @@ body {
     right: -30px;
     bottom: -30px;
     left: -30px;
-    background-image: url(../img/home/music.webp);
+    background-image: url(./css/music.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
