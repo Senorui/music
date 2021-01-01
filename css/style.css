@@ -3,7 +3,9 @@
 }
 
 body {
-    font-family: Helvetica, Arial;
+    font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", "Heiti SC",  "WenQuanYi Micro Hei", serif;
+    height: 100%; 
+    padding: 0;
     margin: 0;
     background-color: #ffeff5;
 }
@@ -359,5 +361,5 @@ body {
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    font-size:10px;
+    font-size:8px;
 }
